@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-150458?style=for-the-badge&logo=pandas)
 ![Status](https://img.shields.io/badge/Task-Completed-success?style=for-the-badge)
+
 ![Internship](https://img.shields.io/badge/YuvaIntern-Data%20Science-orange?style=for-the-badge)
 
 ## 📌 Executive Summary
@@ -101,7 +102,7 @@ The goal of this project is to raw clinical diagnostic patient records from the 
 
 ## 👤 Author Information
 
-- **Author:** [Your Name]
+- **Author:** [SURYANSH RAI]
 - **Role:** Data Science Intern
 - **Organization:** YuvaIntern
 - **Task:** Deliverable 1 - Data Gathering, Cleaning & Preprocessing
